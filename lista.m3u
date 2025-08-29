@@ -155,6 +155,8 @@ https://vavoo.to/vavoo-iptv/play/364832494563359ab623df
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
 https://vavoo.to/vavoo-iptv/play/3134124967ad7ac6cb62f9
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Og_2yYQhg-ersjEG5xZ99bri_Di4l5dlyw&s" group-title="Altro",ONDA TV (1)
@@ -313,9 +315,7 @@ https://vavoo.to/vavoo-iptv/play/257447576d383e8001862
 https://vavoo.to/vavoo-iptv/play/281431819814af663d4567
 #EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/proxy/UNXKnLrwdDNoio4peXah3Pz81kI5Cv2FzJo82TPzn4seN-JZ3tovuVe45XSRBkIyMOfrrZ3bnWaMsTi80Xj40Q" group-title="Altro",TELEVIDEO AGRIGENTO
 https://vavoo.to/vavoo-iptv/play/40202419628e8eecc1dd12
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (1)
-https://vavoo.to/vavoo-iptv/play/2764553737f817b6d4f583
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV
 https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
 #EXTINF:-1 tvg-id="trm.h24.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/trm-h24-it.png?raw=true" group-title="Altro",TRM H24
 https://vavoo.to/vavoo-iptv/play/2310699492314ea68def19
@@ -343,8 +343,10 @@ https://vavoo.to/vavoo-iptv/play/3071392662a754d82b0840
 https://vavoo.to/vavoo-iptv/play/3038112906ea7474420e4b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/tvrs-it.png?raw=true" group-title="Altro",TVRS
 https://vavoo.to/vavoo-iptv/play/148874663839cdbe9a2d7e
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Umbria_TV_wordmark%2C_ca._2020.png" group-title="Altro",UMBRIA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Umbria_TV_wordmark%2C_ca._2020.png" group-title="Altro",UMBRIA TV (1)
 https://vavoo.to/vavoo-iptv/play/1597386407952db649a6ca
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Umbria_TV_wordmark%2C_ca._2020.png" group-title="Altro",UMBRIA TV (2)
+https://vavoo.to/vavoo-iptv/play/2230919796f4c4a3b6f393
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRpKemP5FC0RLOQVhc9kPU71aJW9Tj9DU8g&s" group-title="Altro",UNINETTUNO
 https://vavoo.to/vavoo-iptv/play/797328723f4292436afc4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.laureaonlinegiurisprudenza.it/wp-content/uploads/2019/09/Logo-Uninettuno.png" group-title="Altro",UNINETTUNO UNIVERSITY TV
@@ -557,7 +559,9 @@ https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514
 https://daddylive.sx/stream/stream-460.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
-#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
+#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (1)
+https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
+#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (2)
 https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX
 https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
@@ -571,8 +575,6 @@ https://daddylive.sx/stream/stream-575.php
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (2)
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
-https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (1)
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (2)
@@ -657,8 +659,6 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (2)
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
-#EXTINF:-1 tvg-id="boingplus.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
-https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (1)
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (2)
@@ -697,6 +697,8 @@ https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
+#EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
+https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
 https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
@@ -757,7 +759,9 @@ https://daddylive.sx/stream/stream-864.php
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
+https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://daddylive.sx/stream/stream-860.php
@@ -939,25 +943,25 @@ https://daddylive.sx/stream/stream-21.php
 #EXTINF:-1 tvg-id="italyseriecvispesarovsrimini" tvg-name="Soccer | Italy - Serie C : Vis Pesaro vs Rimini (21:00)" tvg-logo="https://raw.githubusercontent.com/dorothomg/tprovav/main/logos/Vis Pesaro_vs_Rimini.png" group-title="Eventi Live",Soccer | Italy - Serie C : Vis Pesaro vs Rimini (21:00)
 https://daddylive.sx/stream/stream-22.php
 
-#EXTINF:-1 tvg-id="italyseriecatalantaiivsvirtuscasarano" tvg-name="Soccer | Italy - Serie C : Atalanta II vs Virtus Casarano (21:00)" tvg-logo="https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/08/atalanta_logo_resized.png" group-title="Eventi Live",Soccer | Italy - Serie C : Atalanta II vs Virtus Casarano (21:00)
+#EXTINF:-1 tvg-id="italyseriecatalantaiivsvirtuscasarano" tvg-name="Soccer | Italy - Serie C : Atalanta II vs Virtus Casarano (21:00)" tvg-logo="https://images.seeklogo.com/logo-png/1/2/atalanta-bergamo-old-logo-png_seeklogo-12722.png" group-title="Eventi Live",Soccer | Italy - Serie C : Atalanta II vs Virtus Casarano (21:00)
 https://daddylive.sx/stream/stream-23.php
 
-#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2023/06/05/4cd51ea6-9588-449d-86bb-fbda549b41f9/Zvonareva-Torso_260142.png?width=950" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
 https://daddylive.sx/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://observer.com/wp-content/uploads/sites/2/2023/08/zDfqIoiw.png?quality=80" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
 https://daddylive.sx/stream/stream-462.php
 
-#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8384cf0e-9e20-4791-8341-852cf22e2012/dg2aeyk-e6308419-1298-4ca3-b2c3-9e23f7b25c9b.png/v1/fill/w_1024,h_1024/af_2023___kanah__day_6__by_micahandthemoon_dg2aeyk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzgzODRjZjBlLTllMjAtNDc5MS04MzQxLTg1MmNmMjJlMjAxMlwvZGcyYWV5ay1lNjMwODQxOS0xMjk4LTRjYTMtYjJjMy05ZTIzZjdiMjVjOWIucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.RLOcdOFsW2wRgebNn6N6bhzewgaFCtMMmf4PLZSUT8Y" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/127/532/non_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
 https://daddylive.sx/stream/stream-461.php
 
-#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8384cf0e-9e20-4791-8341-852cf22e2012/dg2aeyk-e6308419-1298-4ca3-b2c3-9e23f7b25c9b.png/v1/fill/w_1024,h_1024/af_2023___kanah__day_6__by_micahandthemoon_dg2aeyk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcLzgzODRjZjBlLTllMjAtNDc5MS04MzQxLTg1MmNmMjJlMjAxMlwvZGcyYWV5ay1lNjMwODQxOS0xMjk4LTRjYTMtYjJjMy05ZTIzZjdiMjVjOWIucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.RLOcdOFsW2wRgebNn6N6bhzewgaFCtMMmf4PLZSUT8Y" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
 https://daddylive.sx/stream/stream-460.php
 
-#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2023/06/05/4cd51ea6-9588-449d-86bb-fbda549b41f9/Zvonareva-Torso_260142.png?width=950" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
 https://daddylive.sx/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2023/06/05/4cd51ea6-9588-449d-86bb-fbda549b41f9/Zvonareva-Torso_260142.png?width=950" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day6" tvg-name="Tennis | US Open Round 1 | Day 6 (16:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/127/532/non_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 6 (16:00)
 https://daddylive.sx/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="formula1heinekendutchgrandprixpractice1" tvg-name="Motorsport | Formula 1 : Heineken Dutch Grand Prix - Practice 1 (12:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Heineken Dutch Grand Prix - Practice 1 (12:30)
@@ -966,7 +970,7 @@ https://daddylive.sx/stream/stream-577.php
 #EXTINF:-1 tvg-id="formula1heinekendutchgrandprixpractice2" tvg-name="Motorsport | Formula 1 : Heineken Dutch Grand Prix - Practice 2 (16:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Heineken Dutch Grand Prix - Practice 2 (16:00)
 https://daddylive.sx/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="vueltaaespanastage7187andorralavellaandorracerlerhuescathemagic" tvg-name="Cycling | Vuelta a Espana Stage 7 - 187 Andorra la Vella.Andorra - Cerler.Huesca The Magic (12:45)" tvg-logo="https://www.sticker-store24.com/media/f1/59/91/1646910488/39.01.005_andorra_la_vella.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 7 - 187 Andorra la Vella.Andorra - Cerler.Huesca The Magic (12:45)
+#EXTINF:-1 tvg-id="vueltaaespanastage7187andorralavellaandorracerlerhuescathemagic" tvg-name="Cycling | Vuelta a Espana Stage 7 - 187 Andorra la Vella.Andorra - Cerler.Huesca The Magic (12:45)" tvg-logo="https://i.pinimg.com/originals/3c/2d/1c/3c2d1c8dab101b62d36ce4cc9cf6a6bd.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 7 - 187 Andorra la Vella.Andorra - Cerler.Huesca The Magic (12:45)
 https://daddylive.sx/stream/stream-878.php
 
 
