@@ -417,8 +417,6 @@ https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="mediaset.extra.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Mediaset",MEDIASET EXTRA
 https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 1
-https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 2
 https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 5
@@ -547,10 +545,8 @@ https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://daddylive.sx/stream/stream-462.php
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (1)
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (2)
-https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://daddylive.sx/stream/stream-870.php
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
@@ -970,19 +966,19 @@ https://daddylive.sx/stream/stream-164.php
 #EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsbenevento" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Benevento (20:30)" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e2549f68807889.5b6a14e3d8914.png" group-title="Eventi Live",Soccer | Italy - Serie C : Virtus Casarano vs Benevento (20:30)
 https://daddylive.sx/stream/stream-165.php
 
-#EXTINF:-1 tvg-id="italyserieccasertanavspotenzacalcio" tvg-name="Soccer | Italy - Serie C : Casertana vs Potenza Calcio (20:30)" group-title="Eventi Live",Soccer | Italy - Serie C : Casertana vs Potenza Calcio (20:30)
+#EXTINF:-1 tvg-id="italyserieccasertanavspotenzacalcio" tvg-name="Soccer | Italy - Serie C : Casertana vs Potenza Calcio (20:30)" tvg-logo="https://www.fcsorrento.com/wp-content/uploads/2023/08/Logo-Potenza.png" group-title="Eventi Live",Soccer | Italy - Serie C : Casertana vs Potenza Calcio (20:30)
 https://daddylive.sx/stream/stream-167.php
 
 #EXTINF:-1 tvg-id="italyserieccataniavsmonopoli" tvg-name="Soccer | Italy - Serie C : Catania vs Monopoli (20:30)" tvg-logo="https://raw.githubusercontent.com/dorothomg/tprovav/main/logos/Catania_vs_Monopoli.png" group-title="Eventi Live",Soccer | Italy - Serie C : Catania vs Monopoli (20:30)
 https://daddylive.sx/stream/stream-166.php
 
-#EXTINF:-1 tvg-id="usopenround1day14" tvg-name="Tennis | US Open Round 1 | Day 14 (16:00)" tvg-logo="https://www.seekpng.com/png/full/51-516751_fifa-14-logo-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 14 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day14" tvg-name="Tennis | US Open Round 1 | Day 14 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 14 (16:00)
 https://daddylive.sx/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="usopenround1day14" tvg-name="Tennis | US Open Round 1 | Day 14 (16:00)" tvg-logo="https://www.seekpng.com/png/full/51-516751_fifa-14-logo-png.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 14 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day14" tvg-name="Tennis | US Open Round 1 | Day 14 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 14 (16:00)
 https://daddylive.sx/stream/stream-462.php
 
-#EXTINF:-1 tvg-id="usopenround1day14" tvg-name="Tennis | US Open Round 1 | Day 14 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 14 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day14" tvg-name="Tennis | US Open Round 1 | Day 14 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 14 (16:00)
 https://daddylive.sx/stream/stream-461.php
 
 #EXTINF:-1 tvg-id="usopenround1day14" tvg-name="Tennis | US Open Round 1 | Day 14 (16:00)" tvg-logo="https://res.cloudinary.com/usga-single-app/image/upload/f_auto,fl_lossy,q_auto/c_fill,dpr_2.0,g_center/v1679632701/championships/icons/AXP_BlueBoxLogo.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 14 (16:00)
@@ -1012,10 +1008,10 @@ https://daddylive.sx/stream/stream-577.php
 #EXTINF:-1 tvg-id="moto3grandprixofcataloniaqualifying" tvg-name="Motorsports | Moto 3 : Grand Prix of Catalonia Qualifying (12:45)" tvg-logo="https://s3.sky.ch/img/images/competition/logo/508.png" group-title="Eventi Live",Motorsports | Moto 3 : Grand Prix of Catalonia Qualifying (12:45)
 https://daddylive.sx/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="worldchampionshiptrkiyemxgprace1" tvg-name="Motorsports | World Championship T?rkiye | MXGP | Race 1 (13:00)" tvg-logo="https://newlevel.com.ar/wp-content/uploads/2024/12/MXGP-24-The-Official-Game-PS5.png" group-title="Eventi Live",Motorsports | World Championship T?rkiye | MXGP | Race 1 (13:00)
+#EXTINF:-1 tvg-id="worldchampionshiptrkiyemxgprace1" tvg-name="Motorsports | World Championship T?rkiye | MXGP | Race 1 (13:00)" tvg-logo="https://dymaxion.com.ar/wp-content/uploads/2024/11/MXGP.png" group-title="Eventi Live",Motorsports | World Championship T?rkiye | MXGP | Race 1 (13:00)
 https://daddylive.sx/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="moto2grandprixofcataloniaqualifying" tvg-name="Motorsports | Moto 2 : Grand Prix of Catalonia Qualifying (13:40)" tvg-logo="https://www.agendatv-auto-moto.com/images/visuels/competition_moto_2_11112020172831.png" group-title="Eventi Live",Motorsports | Moto 2 : Grand Prix of Catalonia Qualifying (13:40)
+#EXTINF:-1 tvg-id="moto2grandprixofcataloniaqualifying" tvg-name="Motorsports | Moto 2 : Grand Prix of Catalonia Qualifying (13:40)" tvg-logo="https://www.gresiniracing.com/wp-content/themes/gresini-racing-2025/images/moto2-gresini-2025.png" group-title="Eventi Live",Motorsports | Moto 2 : Grand Prix of Catalonia Qualifying (13:40)
 https://daddylive.sx/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="formula2pirelliitaliangrandprixsprintrace" tvg-name="Motorsports | Formula 2 : Pirelli Italian Grand Prix - Sprint Race (14:15)" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Eventi Live",Motorsports | Formula 2 : Pirelli Italian Grand Prix - Sprint Race (14:15)
@@ -1027,13 +1023,13 @@ https://daddylive.sx/stream/stream-575.php
 #EXTINF:-1 tvg-id="formula1pirelliitaliangrandprixqualifying" tvg-name="Motorsports | Formula 1 : Pirelli Italian Grand Prix - Qualifying (16:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsports | Formula 1 : Pirelli Italian Grand Prix - Qualifying (16:00)
 https://daddylive.sx/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="worldchampionshiptrkiyemxgprace2" tvg-name="Motorsports | World Championship T?rkiye | MXGP | Race 2 (16:15)" tvg-logo="https://mxgp.hondaracingcorporation.com/wp-content/uploads/sites/4/2017/10/65ba90f94bd460.06741736.png" group-title="Eventi Live",Motorsports | World Championship T?rkiye | MXGP | Race 2 (16:15)
+#EXTINF:-1 tvg-id="worldchampionshiptrkiyemxgprace2" tvg-name="Motorsports | World Championship T?rkiye | MXGP | Race 2 (16:15)" tvg-logo="https://dymaxion.com.ar/wp-content/uploads/2024/11/MXGP.png" group-title="Eventi Live",Motorsports | World Championship T?rkiye | MXGP | Race 2 (16:15)
 https://daddylive.sx/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="ufcfightnight269maincardnassourdineimavovvscaioborralho" tvg-name="MMA | UFC Fight Night 269 Main Card : Nassourdine Imavov vs Caio Borralho (21:00)" tvg-logo="https://raw.githubusercontent.com/dorothomg/tprovav/main/logos/Nassourdine Imavov_vs_Caio Borralho.png" group-title="Eventi Live",MMA | UFC Fight Night 269 Main Card : Nassourdine Imavov vs Caio Borralho (21:00)
 https://daddylive.sx/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="worldcupcoppermensandwomensleadfinal" tvg-name="Climbing | World Cup | Copper Men's and Women's Lead | Final (20:00)" tvg-logo="https://png.pngtree.com/png-clipart/20221024/original/pngtree-icc-t20-world-cup-trophy-png-image_8717575.png" group-title="Eventi Live",Climbing | World Cup | Copper Men's and Women's Lead | Final (20:00)
+#EXTINF:-1 tvg-id="worldcupcoppermensandwomensleadfinal" tvg-name="Climbing | World Cup | Copper Men's and Women's Lead | Final (20:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Eventi Live",Climbing | World Cup | Copper Men's and Women's Lead | Final (20:00)
 https://daddylive.sx/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="lavueltaaespañastage14mountain135km3800m" tvg-name="Cycling | La Vuelta a España: Stage 14 Mountain | 135 km | 3800 m (13:15)" tvg-logo="https://www.sportpools.net/dist/images/logos/logo-vuelta.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 14 Mountain | 135 km | 3800 m (13:15)
