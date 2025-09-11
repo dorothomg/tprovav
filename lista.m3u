@@ -121,9 +121,7 @@ https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
 https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV (2)
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (1)
-https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
@@ -541,15 +539,11 @@ https://daddylive.sx/stream/stream-874.php
 https://daddylive.sx/stream/stream-875.php
 #EXTINF:-1 tvg-id="sky.sport..256.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 256 (D)
 https://daddylive.sx/stream/stream-876.php
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (1)
-https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://daddylive.sx/stream/stream-462.php
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (1)
-https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (2)
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://daddylive.sx/stream/stream-870.php
@@ -933,7 +927,7 @@ https://daddylive.sx/stream/stream-576.php
 #EXTINF:-1 tvg-id="vueltaaespanastage18itt26km140m" tvg-name="Cycling | Vuelta a Espana: Stage 18 ITT | 26 km | 140 m (15:00)" tvg-logo="https://images.seeklogo.com/logo-png/27/2/vuelta-2013-spain-logo-png_seeklogo-275699.png" group-title="Eventi Live",Cycling | Vuelta a Espana: Stage 18 ITT | 26 km | 140 m (15:00)
 https://daddylive.sx/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="sabatinicup210km" tvg-name="Cycling | Sabatini Cup | 210 km (15:10)" tvg-logo="https://cdn.shopify.com/s/files/1/0451/8979/1910/files/SABATINISHORTSBLACKFRONT.png?v=1684766826" group-title="Eventi Live",Cycling | Sabatini Cup | 210 km (15:10)
+#EXTINF:-1 tvg-id="sabatinicup210km" tvg-name="Cycling | Sabatini Cup | 210 km (15:10)" tvg-logo="https://enogotti.it/wp-content/uploads/2022/12/Sabatini-Unfiltered-batch-of-London-Dry-Gin-700x700.png" group-title="Eventi Live",Cycling | Sabatini Cup | 210 km (15:10)
 https://daddylive.sx/stream/stream-882.php
 
 
