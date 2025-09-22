@@ -497,6 +497,8 @@ https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1 (D)
 https://daddylive.sx/stream/stream-877.php
+#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
+https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (1)
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (2)
@@ -545,7 +547,9 @@ https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://daddylive.sx/stream/stream-462.php
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (1)
+https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (2)
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://daddylive.sx/stream/stream-870.php
@@ -645,8 +649,6 @@ https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (2)
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
-#EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
-https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
 https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
@@ -661,6 +663,8 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (2)
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
+#EXTINF:-1 tvg-id="boingplus.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
+https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (1)
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (2)
@@ -926,7 +930,7 @@ https://daddylive.sx/stream/stream-870.php
 #EXTINF:-1 tvg-id="italyserieanapolivspisa" tvg-name="Soccer | Italy - Serie A : Napoli vs Pisa (20:45)" tvg-logo="https://raw.githubusercontent.com/dorothomg/tprovav/main/logos/Napoli_vs_Pisa.png" group-title="Eventi Live",Soccer | Italy - Serie A : Napoli vs Pisa (20:45)
 https://daddylive.sx/stream/stream-461.php
 
-#EXTINF:-1 tvg-id="bjkcupfinalsquarterfinalsusavkazjpnvgbrseoulwtachengduatpearlyrounds" tvg-name="Tennis | BJK Cup Finals Quarterfinals USA v. KAZ & JPN v. GBR; Seoul-WTA & Chengdu-ATP Early Rounds (12:00)" tvg-logo="https://assets.stickpng.com/images/62665ca61e92f9aac65b5bd4.png" group-title="Eventi Live",Tennis | BJK Cup Finals Quarterfinals USA v. KAZ & JPN v. GBR; Seoul-WTA & Chengdu-ATP Early Rounds (12:00)
+#EXTINF:-1 tvg-id="bjkcupfinalsquarterfinalsusavkazjpnvgbrseoulwtachengduatpearlyrounds" tvg-name="Tennis | BJK Cup Finals Quarterfinals USA v. KAZ & JPN v. GBR; Seoul-WTA & Chengdu-ATP Early Rounds (12:00)" tvg-logo="https://images.seeklogo.com/logo-png/61/2/besiktas-jk-2025-new-logo-png_seeklogo-611736.png" group-title="Eventi Live",Tennis | BJK Cup Finals Quarterfinals USA v. KAZ & JPN v. GBR; Seoul-WTA & Chengdu-ATP Early Rounds (12:00)
 https://daddylive.sx/stream/stream-576.php
 
 #EXTINF:-1 tvg-id="uciroadchamps25wu23indtt" tvg-name="Cycling | UCI Road Champs '25: (W) U23 Ind. TT (10:25)" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/3354/3354-logo.png" group-title="Eventi Live",Cycling | UCI Road Champs '25: (W) U23 Ind. TT (10:25)
