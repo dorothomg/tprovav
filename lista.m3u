@@ -615,15 +615,6 @@ https://daddylive.sx/stream/stream-870.php
 #EXTINF:-1 tvg-id="friendlyenglandvswales" tvg-name="Soccer | Friendly : England vs Wales (20:45)" tvg-logo="https://raw.githubusercontent.com/dorothomg/tprovav/main/logos/England_vs_Wales.png" group-title="Eventi Live",Soccer | Friendly : England vs Wales (20:45)
 https://daddylive.sx/stream/stream-462.php
 
-#EXTINF:-1 tvg-id="shanghaiatpquarterfinal2wuhanwta3rdround" tvg-name="Tennis | Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round (12:30)" tvg-logo="https://static3.tildacdn.com/tild3938-3432-4362-b632-333938306565/logo.png" group-title="Eventi Live",Tennis | Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round (12:30)
-https://daddylive.sx/stream/stream-576.php
-
-#EXTINF:-1 tvg-id="xiangrandprixround3" tvg-name="Snooker | Xi'an Grand Prix | Round 3 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 3 (13:30)
-https://daddylive.sx/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="granpiemontemendoglianiacquiterme179km" tvg-name="Cycling | Gran Piemonte Men | Dogliani - Acqui Terme (179km) (14:15)" tvg-logo="https://www.equipecofidis.com/medias/articles/gran-piemonte-logo_844387226.png" group-title="Eventi Live",Cycling | Gran Piemonte Men | Dogliani - Acqui Terme (179km) (14:15)
-https://daddylive.sx/stream/stream-878.php
-
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
